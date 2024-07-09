@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "17810E67-7E17-45B3-BC1B-B662E4E656DE",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:20240626_MassenElarabi_NYCSchools.xcodeproj",
+      "identifier" : "17D067372C2CAFA100079722",
+      "name" : "20240626_MassenElarabi_NYCSchools"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:20240626_MassenElarabi_NYCSchools.xcodeproj",
+        "identifier" : "17D067472C2CAFA700079722",
+        "name" : "20240626_MassenElarabi_NYCSchoolsTests"
+      }
+    }
+  ],
+  "version" : 1
+}
